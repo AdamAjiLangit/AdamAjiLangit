@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adam.aji2007@gmail.com**
 
-- ⚡ Fun fact **I like making games and websites**
+- ⚡ Fun fact **I like Ice Bear**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
