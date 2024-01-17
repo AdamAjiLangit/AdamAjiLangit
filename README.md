@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I like Ice Bear**
 
-- 📄 Check My Personal Portofolio <a href="https://icebear-portofolio-nsomiv501-zeins-projects-f5ab1862.vercel.app/">See</a>
+- 📄 Check My Personal Portofolio <a href="https://icebear-portofolio-alrk7p4x1-zeins-projects-f5ab1862.vercel.app/">See</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
