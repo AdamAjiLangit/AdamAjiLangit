@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Indonesia, Building Beautiful Websites: Embracing Frontend Skill 🖥️🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" />
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **adam.aji2007@gmail.com**
 
