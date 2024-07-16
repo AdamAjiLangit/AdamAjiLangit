@@ -22,5 +22,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamAjiLangit)](https://github.com/AdamAjiLangit/github-readme-stats)
 [![Adam's github stats](https://github-readme-stats.vercel.app/api?username=AdamAjiLangit&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=AntonioErdeljac&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
