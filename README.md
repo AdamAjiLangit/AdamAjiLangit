@@ -4,7 +4,7 @@
 Feel free to collaborate!✨
 </p>
 
-- 🌱 I’m currently learning **Web Animation**
+- 🌱 I’m currently learning **Nuxt & Vue js**
 
 - 📫 How to reach me **adamajilangit@gmail.com**
 
