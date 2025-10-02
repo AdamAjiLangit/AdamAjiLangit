@@ -3,6 +3,7 @@
 <p>- i'm a frontend developer, web designer, web programmer, and high school student. I'm interested in web design, My passion is building cool stuff. I build primarily with React, Tailwind CSS, and Framer Motion. I love this stack so much that I even built a website about it.
 Feel free to collaborate!✨
 </p>
+google-site-verification=MW6l7WFF6FtQa2ggjBoyvt4SaQu5TuuBQwygOjILzek
 
 - 🌱 I’m currently learning **Astro**
 
