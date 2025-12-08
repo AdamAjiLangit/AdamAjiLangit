@@ -1,8 +1,9 @@
 <h1 align="left">Hi There! 👋</h1>
 <h4 align="left">I'm Adam (he/him)</h3>
-<p>- i'm a frontend developer, web designer, web programmer, and high school student. I'm interested in web design, My passion is building cool stuff. I build primarily with React, Tailwind CSS, and Framer Motion. I love this stack so much that I even built a website about it.
-Feel free to collaborate!✨
-</p>
+🚀 Frontend dev & web designer | High school student
+💻 Building cool stuff with Next.js, Tailwind CSS, & GSAP
+✨ Passionate about animations and interactive web experiences
+🤝 Open to collabs!
 
 - 💼 I’m currently working
 
