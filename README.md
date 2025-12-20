@@ -47,19 +47,3 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AdamAjiLangit&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-Hello Apple Developer Support Team,
-
-I am contacting you using a different Apple ID because I am currently unable to sign in to our company Apple ID.
-
-When trying to log in to the company account "adamajilangit@gmail.com", I receive the message:
-“Too many verification codes have been sent. Enter the last code you received or try again.”
-
-I have already tried entering the most recent verification code (OTP), but it continues to fail and does not allow access. At this moment, the company Apple ID is completely inaccessible.
-
-I would appreciate your assistance in helping us recover access to the company account or advising on the proper steps to resolve this verification issue.
-
-Thank you for your support.
-
-Kind regards,
-Adam
