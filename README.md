@@ -1,7 +1,5 @@
 <h1 align="left">Hi There! 👋</h1>
 <h4 align="left">I'm Adam (he/him)</h3>
-<h1 align="left">Hi There! 👋</h1>
-<h4 align="left">I'm Adam (he/him)</h4>
 🚀 Frontend Developer & Web Designer
 🎓 High school graduate, currently working
 💻 Building cool stuff with Next.js, Tailwind CSS, & GSAP
