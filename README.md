@@ -1,9 +1,13 @@
 <h1 align="left">Hi There! 👋</h1>
 <h4 align="left">I'm Adam (he/him)</h3>
-🚀 Frontend dev & web designer | High school student
+<h1 align="left">Hi There! 👋</h1>
+<h4 align="left">I'm Adam (he/him)</h4>
+🚀 Frontend Developer & Web Designer
+🎓 High school graduate, currently working
 💻 Building cool stuff with Next.js, Tailwind CSS, & GSAP
 ✨ Passionate about animations and interactive web experiences
-🤝 Open to collabs!
+🤝 Open to collaborations!
+
 
 - 💼 I’m currently working
 
